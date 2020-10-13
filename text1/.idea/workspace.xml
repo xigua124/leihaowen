@@ -26,7 +26,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd787a2a-e05d-49b8-8431-cf77f9c834ab" name="Default Changelist" comment="&quot;test1&quot;" />
+    <list default="true" id="fd787a2a-e05d-49b8-8431-cf77f9c834ab" name="Default Changelist" comment="&quot;test1&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -144,7 +146,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602592338613</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;test1&quot;">
+      <created>1602592596368</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602592596369</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;test1&quot;">
+      <created>1602592719703</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602592719703</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -179,12 +195,27 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;test1&quot;" />
     <MESSAGE value="Revert &quot;&quot;test1&quot;&quot;&#10;&#10;This reverts commit d8360d0f" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;&quot;test1&quot;&quot;&#10;&#10;This reverts commit d8360d0f" />
+    <MESSAGE value="&quot;test1&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;test1&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="447" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602591609194">
@@ -203,30 +234,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="707" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602592337026" />
-    <state x="594" y="100" width="848" height="624" key="DiffContextDialog" timestamp="1602592484758">
+    <state x="594" y="100" width="848" height="624" key="DiffContextDialog" timestamp="1602593494078">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="594" y="100" width="848" height="624" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602592484758" />
+    <state x="594" y="100" width="848" height="624" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1602593494078" />
     <state x="921" y="162" key="EnvironmentVariablesDialog" timestamp="1602591912503">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="921" y="162" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602591912503" />
-    <state width="919" height="208" key="GridCell.Tab.0.bottom" timestamp="1602592484630">
+    <state width="920" height="208" key="GridCell.Tab.0.bottom" timestamp="1602592625390">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="919" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602592484630" />
-    <state width="919" height="208" key="GridCell.Tab.0.center" timestamp="1602592484630">
+    <state width="920" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602592625390" />
+    <state width="920" height="208" key="GridCell.Tab.0.center" timestamp="1602592625389">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="919" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602592484630" />
-    <state width="919" height="208" key="GridCell.Tab.0.left" timestamp="1602592484630">
+    <state width="920" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602592625389" />
+    <state width="920" height="208" key="GridCell.Tab.0.left" timestamp="1602592625389">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="919" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602592484630" />
-    <state width="919" height="208" key="GridCell.Tab.0.right" timestamp="1602592484630">
+    <state width="920" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602592625389" />
+    <state width="920" height="208" key="GridCell.Tab.0.right" timestamp="1602592625389">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="919" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602592484630" />
+    <state width="920" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602592625389" />
     <state x="294" y="64" key="MergeDialog" timestamp="1602592325252">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -243,5 +274,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="656" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602591512578" />
+    <state x="858" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602592559958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="858" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1602592559958" />
   </component>
 </project>
