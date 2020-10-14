@@ -19,15 +19,17 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd787a2a-e05d-49b8-8431-cf77f9c834ab" name="Default Changelist" comment="&quot;test1&quot;">
+      <change afterPath="$PROJECT_DIR$/高等数学/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/高等数学/test3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/高等数学/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/高等数学/test1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +63,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.test1">
+  <component name="RunManager" selected="Python.test3">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="text1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,12 +106,58 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="text1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高等数学" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高等数学/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="text1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/高等数学" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/高等数学/test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.test1" />
+      <item itemvalue="Python.test2" />
+      <item itemvalue="Python.test3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test3" />
+        <item itemvalue="Python.test2" />
         <item itemvalue="Python.test1" />
       </list>
     </recent_temporary>
@@ -160,7 +208,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602592719703</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;test1&quot;">
+      <created>1602593499081</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602593499081</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;test1&quot;">
+      <created>1602593742700</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602593742700</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -185,7 +247,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -243,22 +305,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="921" y="162" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602591912503" />
-    <state width="920" height="208" key="GridCell.Tab.0.bottom" timestamp="1602592625390">
+    <state width="943" height="208" key="GridCell.Tab.0.bottom" timestamp="1602680355813">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="920" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602592625390" />
-    <state width="920" height="208" key="GridCell.Tab.0.center" timestamp="1602592625389">
+    <state width="943" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602680355813" />
+    <state width="943" height="208" key="GridCell.Tab.0.center" timestamp="1602680355813">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="920" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602592625389" />
-    <state width="920" height="208" key="GridCell.Tab.0.left" timestamp="1602592625389">
+    <state width="943" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602680355813" />
+    <state width="943" height="208" key="GridCell.Tab.0.left" timestamp="1602680355813">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="920" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602592625389" />
-    <state width="920" height="208" key="GridCell.Tab.0.right" timestamp="1602592625389">
+    <state width="943" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602680355813" />
+    <state width="943" height="208" key="GridCell.Tab.0.right" timestamp="1602680355813">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="920" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602592625389" />
+    <state width="943" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602680355813" />
     <state x="294" y="64" key="MergeDialog" timestamp="1602592325252">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -271,10 +333,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="935" y="135" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602591811003" />
-    <state x="656" y="148" key="Vcs.Push.Dialog.v2" timestamp="1602591512578">
+    <state x="656" y="148" key="Vcs.Push.Dialog.v2" timestamp="1602593758174">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="656" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602591512578" />
+    <state x="656" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602593758174" />
     <state x="858" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602592559958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
