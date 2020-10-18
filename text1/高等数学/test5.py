@@ -19,13 +19,13 @@ class Line(torch.nn.Module):
 if __name__ == '__main__':
     print("hello")
     line = Line()
-    #  opt = torch.optim.SGD(line.parameters(), lr=0.1)
+    # opt = torch.optim.SGD(line.parameters(), lr=0.1)
     opt = torch.optim.Adam(line.parameters(), lr=0.1)
     plt.ion()
     for epoch in range(30):
         for _x, _y in zip(xs, ys):
             z = line(_x)
-            loss = (z - _y)**2
+            loss = (z - _y) ** 2
             opt.zero_grad()  # 清空梯度
             loss.backward()  # 前向计算
             opt.step()  # 更新参数
