@@ -8,9 +8,9 @@ import torch
 # b = torch.from_numpy(a).float()
 # print(b.det())
 
-# a = torch.tensor([[1, 2],
-#                   [3, 4]])
-#
+a = torch.tensor([[1, 2],
+                  [3, 4]])
+
 # b = torch.tensor([[2, 1],
 #                   [4, 3]])
 # print(torch.matmul(a, b))

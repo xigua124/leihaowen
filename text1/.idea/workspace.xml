@@ -26,9 +26,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd787a2a-e05d-49b8-8431-cf77f9c834ab" name="Default Changelist" comment="&quot;test1&quot;">
-      <change afterPath="$PROJECT_DIR$/线性代数/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/线性代数/test2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/线性代数/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/线性代数/test1.py" afterDir="false" />
+    </list>
+    <list id="4d3f7233-528f-4c5a-8c3f-9a65e30dc079" name="''Default Changelist''" comment="">
+      <change beforePath="$PROJECT_DIR$/线性代数/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/线性代数/test1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +52,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/线性代数/test1.py">
+      <ranges>
+        <range start1="10" end1="13" start2="10" end2="13" changelist="fd787a2a-e05d-49b8-8431-cf77f9c834ab" />
+        <range start1="39" end1="43" start2="39" end2="45" changelist="4d3f7233-528f-4c5a-8c3f-9a65e30dc079" />
+      </ranges>
+    </file>
+  </component>
   <component name="ProjectId" id="1ip4KVQ8u6R4965WHOlrJ1IluqL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -67,7 +77,7 @@
       <recent name="C:\Users\hp\Desktop\workspace\text1\高等数学\image" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test2">
+  <component name="RunManager" selected="Python.test1">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="text1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,16 +206,16 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.try" />
-      <item itemvalue="Python.testt6" />
-      <item itemvalue="Python.test7" />
       <item itemvalue="Python.test1" />
       <item itemvalue="Python.test2" />
+      <item itemvalue="Python.test7" />
+      <item itemvalue="Python.testt6" />
+      <item itemvalue="Python.try" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test2" />
         <item itemvalue="Python.test1" />
+        <item itemvalue="Python.test2" />
         <item itemvalue="Python.test7" />
         <item itemvalue="Python.testt6" />
         <item itemvalue="Python.try" />
@@ -218,6 +228,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fd787a2a-e05d-49b8-8431-cf77f9c834ab" name="Default Changelist" comment="" />
+      <changelist id="4d3f7233-528f-4c5a-8c3f-9a65e30dc079" name="''Default Changelist''" comment="" />
       <created>1602591135253</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -300,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603023733671</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="&quot;test1&quot;">
+      <created>1603099374485</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603099374486</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -383,38 +401,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="921" y="162" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602591912503" />
-    <state width="922" height="192" key="GridCell.Tab.0.bottom" timestamp="1603098503481">
+    <state width="922" height="260" key="GridCell.Tab.0.bottom" timestamp="1603114473178">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="922" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603098503481" />
-    <state width="922" height="192" key="GridCell.Tab.0.center" timestamp="1603098503480">
+    <state width="922" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603114473178" />
+    <state width="922" height="260" key="GridCell.Tab.0.center" timestamp="1603114473178">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="922" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603098503480" />
-    <state width="922" height="192" key="GridCell.Tab.0.left" timestamp="1603098503477">
+    <state width="922" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603114473178" />
+    <state width="922" height="260" key="GridCell.Tab.0.left" timestamp="1603114473178">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="922" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603098503477" />
-    <state width="922" height="192" key="GridCell.Tab.0.right" timestamp="1603098503480">
+    <state width="922" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603114473178" />
+    <state width="922" height="260" key="GridCell.Tab.0.right" timestamp="1603114473178">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="922" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603098503480" />
-    <state width="922" height="260" key="GridCell.Tab.1.bottom" timestamp="1603097933758">
+    <state width="922" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603114473178" />
+    <state width="922" height="260" key="GridCell.Tab.1.bottom" timestamp="1603114473179">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="922" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603097933758" />
-    <state width="922" height="260" key="GridCell.Tab.1.center" timestamp="1603097933758">
+    <state width="922" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603114473179" />
+    <state width="922" height="260" key="GridCell.Tab.1.center" timestamp="1603114473179">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="922" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603097933758" />
-    <state width="922" height="260" key="GridCell.Tab.1.left" timestamp="1603097933758">
+    <state width="922" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603114473179" />
+    <state width="922" height="260" key="GridCell.Tab.1.left" timestamp="1603114473178">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="922" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603097933758" />
-    <state width="922" height="260" key="GridCell.Tab.1.right" timestamp="1603097933758">
+    <state width="922" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603114473178" />
+    <state width="922" height="260" key="GridCell.Tab.1.right" timestamp="1603114473179">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="922" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603097933758" />
+    <state width="922" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603114473179" />
     <state x="294" y="64" key="MergeDialog" timestamp="1602592325252">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -427,10 +445,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="935" y="135" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602591811003" />
-    <state x="656" y="148" key="Vcs.Push.Dialog.v2" timestamp="1603023741807">
+    <state x="909" y="327" key="VCS.ChangelistChooser" timestamp="1603104709665">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="656" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603023741807" />
+    <state x="909" y="327" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1603104709665" />
+    <state x="656" y="148" key="Vcs.Push.Dialog.v2" timestamp="1603099378503">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="656" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603099378503" />
     <state x="858" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602592559958">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
