@@ -27,7 +27,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fd787a2a-e05d-49b8-8431-cf77f9c834ab" name="Default Changelist" comment="&quot;test1&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/线性代数/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/线性代数/test1.py" afterDir="false" />
     </list>
     <list id="4d3f7233-528f-4c5a-8c3f-9a65e30dc079" name="''Default Changelist''" comment="">
       <change beforePath="$PROJECT_DIR$/线性代数/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/线性代数/test1.py" afterDir="false" />
@@ -52,14 +51,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/线性代数/test1.py">
-      <ranges>
-        <range start1="10" end1="13" start2="10" end2="13" changelist="fd787a2a-e05d-49b8-8431-cf77f9c834ab" />
-        <range start1="39" end1="43" start2="39" end2="45" changelist="4d3f7233-528f-4c5a-8c3f-9a65e30dc079" />
-      </ranges>
-    </file>
-  </component>
   <component name="ProjectId" id="1ip4KVQ8u6R4965WHOlrJ1IluqL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -70,7 +61,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/高等数学/image" />
+    <property name="last_opened_file_path" value="D:/Chrome/pytorch-book-master/chapter07-AnimeGAN" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -318,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603099374486</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="&quot;test1&quot;">
+      <created>1603178947771</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1603178947771</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -401,6 +399,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="921" y="162" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602591912503" />
+    <state x="843" y="167" key="FileChooserDialogImpl" timestamp="1603188678545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="843" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603188678545" />
     <state width="922" height="260" key="GridCell.Tab.0.bottom" timestamp="1603114473178">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

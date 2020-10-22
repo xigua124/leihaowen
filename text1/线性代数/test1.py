@@ -37,7 +37,9 @@ a = torch.tensor([[1, 2],
 # a = a.permute(2, 1, 0, 3)
 # print(a.shape)
 
-a = np.arange(60).reshape(1, 4, 5, 3)
-print(a.shape)
-a = a.transpose(2, 1, 0, 3)
-print(a.shape)
+# a = np.arange(60).reshape(1, 4, 5, 3)
+# print(a.shape)
+# a = a.transpose(2, 1, 0, 3)
+# print(a.shape)
+b = np.linalg.inv(a.numpy())
+print(a.numpy().dot(b))
